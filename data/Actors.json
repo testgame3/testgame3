@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"gr3","characterIndex":0,"characterName":"gr","classId":3,"equips":[3,0,2,3,0],"faceIndex":1,"faceName":"test","traits":[],"initialLevel":1,"maxLevel":99,"name":"グリモア","nickname":"","note":"","profile":"闇の魔法使い。穏やかな性格で、笑顔を絶やさない。\n「肉体が死に、影だけになったもの」と会話ができる。"},
+{"id":2,"battlerName":"thike","characterIndex":0,"characterName":"thuketest","classId":5,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"test","traits":[],"initialLevel":1,"maxLevel":99,"name":"ティケ","nickname":"","note":"","profile":"有翼の冒険家。\n観察眼が鋭く、色々と調査し発見することを得意とする。"},
+{"id":3,"battlerName":"yuri","characterIndex":0,"characterName":"yuri","classId":2,"equips":[4,0,2,3,0],"faceIndex":4,"faceName":"test","traits":[],"initialLevel":1,"maxLevel":99,"name":"ユリ","nickname":"","note":"","profile":"男装の警備員。仲間を危機から身を呈して守る。\n怪しい人物に対しての警戒心が強い。"},
+{"id":4,"battlerName":"gin","characterIndex":0,"characterName":"gin","classId":6,"equips":[1,1,2,3,0],"faceIndex":5,"faceName":"test","traits":[],"initialLevel":1,"maxLevel":99,"name":"銀","nickname":"","note":"","profile":"変わった剣を扱う学生。\n粗暴ですぐ暴力的な方向へ物事を持って行ってしまう。"},
+{"id":5,"battlerName":"siron:png","characterIndex":0,"characterName":"siron","classId":4,"equips":[7,0,0,1,0],"faceIndex":1,"faceName":"tesy2","traits":[],"initialLevel":1,"maxLevel":99,"name":"シロン","nickname":"","note":"","profile":"無口な忍者。内に秘めた正義感が強く\n困っている人間を放っておけない。"},
+{"id":6,"battlerName":"naju","characterIndex":0,"characterName":"naju","classId":8,"equips":[5,0,2,3,0],"faceIndex":4,"faceName":"tesy2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ナジュ","nickname":"","note":"","profile":"楽天家な傭兵、ジーニャの弟。\nポジティブな物言いでトラブルを丸め込む事も・・・。"},
+{"id":7,"battlerName":"jinya","characterIndex":0,"characterName":"jinya","classId":7,"equips":[6,0,2,3,4],"faceIndex":0,"faceName":"tesy2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ジーニャ","nickname":"","note":"","profile":"魔術士の青年。ナジュの兄。\n魔力の扱いに長けている。"},
+{"id":8,"battlerName":"im","characterIndex":0,"characterName":"mi","classId":1,"equips":[8,5,7,6,0],"faceIndex":0,"faceName":"新規","traits":[],"initialLevel":1,"maxLevel":99,"name":"ミティエ","nickname":"","note":"","profile":"立派な聖騎士を目指す少女。\nアンデッドを浄化する能力を持つ。"},
+{"id":9,"battlerName":"idf","characterIndex":0,"characterName":"id","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":14,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
